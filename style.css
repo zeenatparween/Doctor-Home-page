@@ -34,7 +34,7 @@
 .main-section{
     display: flex;
     flex-direction: row;
-    column-gap:10rem;
+    column-gap:15rem;
     align-items: center; 
     justify-content:center;
     margin:2rem;
@@ -44,7 +44,7 @@
     flex-direction: column;
     justfy-content:left;
     row-gap:1.3rem;
-    width:40rem;
+    width:50rem;
 
 }
 .main-left-section img{
