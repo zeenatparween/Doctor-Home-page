@@ -37,7 +37,7 @@
     column-gap:5rem;
     align-items: center; 
     justify-content:center;
-    margin:2rem 0rem 2rem 1rem; 
+    margin:2rem;
 }
 .main-left-section{
     display: flex;
